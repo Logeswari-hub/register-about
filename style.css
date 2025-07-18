@@ -1,0 +1,58 @@
+header{
+    background-color: rgb(154, 135, 172);
+    text-align: center;
+    padding: 30px;
+    font-size: large;
+}
+.blue-box{
+ padding: 10px;   
+ background:palevioletred ; 
+ text-align:center;
+ margin: 20px  0;
+ display: flex;
+ word-spacing:100px; 
+ justify-content: center;
+}
+section{
+    box-shadow: 6px;
+    margin:4%;
+    padding:10px;
+    border:2px ;
+    border-style: solid;
+    text-align: center;
+    color:black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    border-width: 1px;
+    border-color: black;
+    box-shadow: 5px 5px 5px;
+}
+.skills{
+
+    height: 150px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 20px;
+      background-color: #f0f0f0;
+      padding:20px;
+
+}
+.project{
+    width:80px;
+    margin: 30px auto;
+    padding:20px;
+    background-color:black;
+    box-shadow:0 0 9px rgba(0,0,0,o);
+    text-align : center;
+    border:2px soild white;
+    border-radius: 10px;
+    color:white;
+}
+img{
+    border-radius:50%;
+    width:180px;
+
+}
+
+   
